@@ -3,7 +3,7 @@ import PlataformaView from '@/layouts/PlataformaView.vue';
 
 const plataforma_rotas = [
     {
-      path: '/',
+      path: '/OrtoLink/',
       component: PlataformaView, // Layout principal
       children: [
         {
